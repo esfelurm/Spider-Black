@@ -1,0 +1,15 @@
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
+smtp.sendgrid.net|587|apikey|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|no-reply@magicrecords.io
+smtp.sendgrid.net|587|apikey|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|unknown@unknown.com
