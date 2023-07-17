@@ -2,14 +2,18 @@ from multiprocessing.dummy import Pool
 import random,socket,threading
 from re import findall as reg
 import requests, re, sys, os
-from colorama import init
-import time,hashlib,datetime,ipaddress,paramiko,smtplib,json,urllib3,io,boto3,random
+try:from colorama import init
+except:os.system("pip install colorama")	
+try:import time,hashlib,datetime,ipaddress,paramiko,smtplib,json,urllib3,io,boto3,random
+except:os.system("pip install hashlib ipaddress paramiko smtplib urllib3 io boto3")
 from multiprocessing.dummy import Pool
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-from email.mime.text import MIMEText
+try:from email.mime.text import MIMEText
+except:os.system("pip install email")	
 from email.mime.multipart import MIMEMultipart
 from socket import gaierror
-from twilio.rest import Client
+try:from twilio.rest import Client
+except:os.system("pip install twilio")	
 init()
 fsetting = open("files/yahoo.ini", 'r').read() 
 pathop = open("files/path.ini", 'r')
