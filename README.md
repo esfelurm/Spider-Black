@@ -38,6 +38,11 @@
 [+] Shells Uploader Mini 
 [+] WooCommerce Plugin Checker From wordpress logins
 ```
+### prerequisites :
+
+- python3 (Modules used)
+- Perl
+
 # install
 
 ```
