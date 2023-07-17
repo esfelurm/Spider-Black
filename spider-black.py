@@ -609,9 +609,8 @@ proxy_error = 0
 sites_list = []
 
 if os.name == "nt":
-	os.system("cls")
-else:
-	os.system("clear")
+	try:os.system("cls")
+	except:os.system("clear")
 
 init(convert=True)
 
@@ -2839,7 +2838,8 @@ def spider_black():
     elif Targetssad == "30":os.system('cmd /k "py woo.py"')        
     else:
       if os.name == "nt":
-        os.system("cls")
+        try:os.system("cls")
+	except:os.system("clear")
       else:
         pass
       logo()
