@@ -36,3 +36,11 @@
 [+] Shells Uploader Mini 
 [+] WooCommerce Plugin Checker From wordpress logins
 ```
+# install
+
+```
+git clone https://github.com/esfelurm/Spider-Black
+cd Spider-Black
+pip install -r requirements.txt
+python spider-black.py
+```
