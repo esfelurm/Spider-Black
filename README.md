@@ -1,7 +1,7 @@
 # Spider-Black
 - A powerful and useful tool for web hacking enthusiasts
 
-## Screenshot
+## Screenshot in Windows
 <img src="menu.png"/>
 
 ## options
@@ -44,3 +44,7 @@ cd Spider-Black
 pip install -r requirements.txt
 python spider-black.py
 ```
+## screenshot in Linux
+<img src='menu-linux.png'/>
+
+Channel Telegram : @esfelurm
