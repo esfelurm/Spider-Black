@@ -1,0 +1,3 @@
+here wordpress logins in format
+
+site.com|user|pass
