@@ -3,7 +3,7 @@ import random,socket,threading
 from re import findall as reg
 import requests, re, sys, os
 try:from colorama import init
-except:os.system("pip install colorama")	
+except:os.system("pip install colorama vonage")	
 try:import time,hashlib,datetime,ipaddress,paramiko,smtplib,json,urllib3,io,boto3,random
 except:os.system("pip install hashlib ipaddress paramiko smtplib urllib3 io boto3")
 from multiprocessing.dummy import Pool
