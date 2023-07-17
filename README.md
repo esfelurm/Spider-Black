@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python spider-black.py
 ```
 
-`For a better installation, type pip install -r requirements.txt after entering the directory to install the modules.
+`For a better installation, type ```pip install -r requirements.txt``` after entering the directory to install the modules.
 If you don't want it or if you have problems, the black spider will automatically install the prerequisites`
 
 ## screenshot in Linux
